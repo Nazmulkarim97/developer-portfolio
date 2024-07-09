@@ -68,7 +68,7 @@ nav ul li{
 .development{
     width: 1140px;
     margin: 74px auto;
-    background-color: #f8f8c1;
+    background-color: #0d132113;
     padding: 80px 97px;
     border-radius: 16px;
     
@@ -84,7 +84,7 @@ nav ul li{
     display: flex;
     margin: 32px;
     padding: 48px;
-    background-image: linear-gradient(to left, #f8f8c1,#ffffff );
+    background-image: linear-gradient(to left, #0d132107,#ffffff );
     justify-content: space-between;
     border-radius: 16px;
 }
@@ -92,7 +92,7 @@ nav ul li{
     display: flex;
     margin: 32px;
     padding: 48px;
-    background-image: linear-gradient(to right, #f8f8c1,#ffffff );
+    background-image: linear-gradient(to right, #0d132107,#ffffff );
     justify-content: space-between;
     border-radius: 16px;
 }
@@ -100,7 +100,7 @@ nav ul li{
     display: flex;
     margin: 32px;
     padding: 48px;
-    background-image: linear-gradient(to left, #f8f8c1,#ffffff );
+    background-image: linear-gradient(to left, #0d132107,#ffffff );
     justify-content: space-between;
     border-radius: 16px;
 }
@@ -119,4 +119,25 @@ nav ul li{
     background-color: white;
     border-color: #0D1321;
     margin-top: 32px;
+}
+
+/* Inspiration Part */
+
+.inspiration{
+    width: 1140px;
+    margin: 74px auto;
+    padding: 0px 97px;
+    
+    
+}
+.video{
+    width: 100%;
+    height: 614px;
+    border: 1px solid #0d132141;
+    padding: 32px;
+    border-radius: 16px;
+    margin: 48px auto;
+    
+
+  
 }
