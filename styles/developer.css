@@ -27,7 +27,7 @@ nav ul li{
     font-size: 20px;
     height: 57px;
     font-weight: 244px;
-    padding: 0 20px;
+    padding: 17px 24px;
     border-radius: 8px;
     color: #0D1321;
     background-color: white;
@@ -38,9 +38,9 @@ nav ul li{
 /* Banner Part */
 
 .banner-content{
-    width: 60%;
+    width: 1140px;
     text-align: center;
-    margin: 0% 20%;
+    margin: 0 auto;
     padding: 2%;
 }
 .banner{
@@ -53,7 +53,7 @@ nav ul li{
     font-size: 20px;
     height: 65px;
     font-weight: 244px;
-    padding: 0 20px;
+    padding: 17px 24px;
     border-radius: 8px;
     color: #ffffff;
     background-color: #000000;
@@ -61,4 +61,62 @@ nav ul li{
 }
 .banner-text{
     font-size: 16px;
+}
+
+/* Development Part */
+
+.development{
+    width: 1140px;
+    margin: 74px auto;
+    background-color: #f8f8c1;
+    padding: 80px 97px;
+    border-radius: 16px;
+    
+}
+.dev-artical{
+    text-align: center;
+    
+}
+.dev-art-head{
+    font-size: 32px;
+}
+.dev-section-1{
+    display: flex;
+    margin: 32px;
+    padding: 48px;
+    background-image: linear-gradient(to left, #f8f8c1,#ffffff );
+    justify-content: space-between;
+    border-radius: 16px;
+}
+.dev-section-2{
+    display: flex;
+    margin: 32px;
+    padding: 48px;
+    background-image: linear-gradient(to right, #f8f8c1,#ffffff );
+    justify-content: space-between;
+    border-radius: 16px;
+}
+.dev-section-3{
+    display: flex;
+    margin: 32px;
+    padding: 48px;
+    background-image: linear-gradient(to left, #f8f8c1,#ffffff );
+    justify-content: space-between;
+    border-radius: 16px;
+}
+.dev-section-half{
+    width: 45%;
+}
+.dev-sec-head{
+    font-size: 24px;
+}
+.dev-sec-btn{
+    font-size: 20px;
+    height: 47px;
+    font-weight: 171px;
+    padding: 0 20px;
+    color: #0D1321;
+    background-color: white;
+    border-color: #0D1321;
+    margin-top: 32px;
 }
