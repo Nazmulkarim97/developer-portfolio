@@ -63,10 +63,11 @@ nav ul li{
     height: 65px;
     font-weight: 244px;
     padding: 17px 24px;
+    border: 1px solid #000000;
     border-radius: 8px;
     color: #ffffff;
     background-color: #000000;
-    border-color: #0D1321;
+    text-decoration: none;
 }
 .banner-text{
     font-size: 16px;
