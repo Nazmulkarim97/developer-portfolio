@@ -185,4 +185,33 @@ nav ul li{
 
 /* Next Target Part */
 
+.next-target{
+    width: 1140px;
+    margin: 74px auto;
+    padding: 0px 97px;
+}
+
+.next-target-block{
+    border: 1px solid #00000046;
+    height: 219px;
+    padding: 0px 40px 40px 40px;
+    border-radius: 16px;
+    margin-top: 24px;
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    
+}
+.next-target-btn{
+    font-size: 16px;
+    border: none;
+    background-color: transparent;
+    font-weight: 800;
+    text-decoration: underline;
+    padding-left: 0px;
+}
+.article-p{
+    margin-bottom: 48px;
+}
+
 
