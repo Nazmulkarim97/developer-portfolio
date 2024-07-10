@@ -138,4 +138,51 @@ nav ul li{
     margin: 48px auto;
 }
 
+/* Target Part */
+
+.target{
+    width: 1140px;
+    margin: 74px auto;
+    padding: 0px 97px;
+}
+.target-block-ht{
+    width: 364px;
+    height: 299px;
+    padding: 40px 0px 0px 40px;
+    border-radius: 16px;
+    background-color: #ff4b1e15;
+}
+.target-block-cs{
+    width: 364px;
+    height: 299px;
+    padding: 40px 0px 0px 40px;
+    border-radius: 16px;
+    background-color: #004de811;
+}
+.target-block-js{
+    width: 364px;
+    height: 299px;
+    padding: 40px 0px 0px 40px;
+    border-radius: 16px;
+    background-color: #ffdd003b;
+}
+.tar-blk-head{
+    font-size: 24px;
+}
+.target-btn{
+    font-size: 16px;
+    border: none;
+    background-color: transparent;
+    font-weight: 800;
+    text-decoration: underline;
+    
+}
+.target-skills{
+    display: flex;
+    gap: 24px;
+    margin-top: 48px;
+}
+
+/* Next Target Part */
+
 
